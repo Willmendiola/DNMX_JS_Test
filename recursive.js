@@ -1,5 +1,4 @@
-/* Funcion recursiva que me permita crear figura geometrica
- del ejercicio de bucles
+/* Funcion recursiva que me permita crear en consola la siguiente figura 
 ----------#
 ---------##
 --------###
@@ -12,4 +11,3 @@
 -##########
 ########### 
 */
-console.log(figure(10,0));
